@@ -1,5 +1,4 @@
-# Porta-da-transpar-ncia-
-A <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
   <meta charset="UTF-8" />
@@ -30,7 +29,6 @@ button {
   font-size: 1rem;
   cursor: pointer;
 }
-
 document.getElementById('btn').addEventListener('click', () => {
   alert('Você clicou no botão!');
 });
